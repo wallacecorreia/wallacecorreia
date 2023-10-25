@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wallacecorreia
 - 👀 I’m interested in development
 - 🌱 I’m currently learning front end, java, css, phyton
-- 💞️ I’m looking to collaborate on development frond end.
+- 💞️ I’m looking to collaborate on developments .
 - 📫 How to reach me @Wallacecorreiiaa
 
 <!---
